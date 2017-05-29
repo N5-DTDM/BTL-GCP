@@ -10,7 +10,6 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "documents")
-
 public class Document implements Serializable{
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
