@@ -41,7 +41,7 @@
 	<div class="container">
 		<div role="navigation">
 			<div class="navbar navbar-default">
-				<a href="/" class="navbar-brand glyphicon glyphicon-home"></a>
+				<a href="/"  class="navbar-brand glyphicon glyphicon-home"></a>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
 						<li><a href="web">WebDemo</a></li>
