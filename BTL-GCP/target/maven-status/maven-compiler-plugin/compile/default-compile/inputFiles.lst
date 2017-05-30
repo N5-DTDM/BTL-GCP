@@ -4,7 +4,9 @@ c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\FileUploadController.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\StorageFileNotFoundException.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\entity\Document.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\FileSystemStorageService.java
+c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\CredentialFactory.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\StorageException.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\StorageService.java
+c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\SslSocketFactory.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\service\StorageProperties.java
 c:\Users\khanh\workspace\BTL-GCP\src\main\java\com\cmh\SpringBootWebApplication.java
